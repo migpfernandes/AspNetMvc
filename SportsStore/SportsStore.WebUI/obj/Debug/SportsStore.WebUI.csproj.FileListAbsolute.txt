@@ -36,3 +36,5 @@ C:\Projetos\AspNetMvc\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razo
 C:\Projetos\AspNetMvc\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Projetos\AspNetMvc\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Projetos\AspNetMvc\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Projetos\AspNetMvc\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Projetos\AspNetMvc\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml

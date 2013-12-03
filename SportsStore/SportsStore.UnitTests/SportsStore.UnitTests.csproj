@@ -66,10 +66,6 @@
       <Project>{9add0e29-af26-4bc9-8667-85a69cdf15d1}</Project>
       <Name>SportsStore.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SportsStore.WebUI\SportsStore.WebUI.csproj">
-      <Project>{3ec459c2-c64f-4058-8ff0-f21bb511da63}</Project>
-      <Name>SportsStore.WebUI</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
